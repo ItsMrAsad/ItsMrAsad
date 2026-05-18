@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0A2E&height=220&section=header&text=Asad%20Ur%20Rehman&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Agentic%20Engineer%20%7C%20Architect%20of%20Autonomous%20Systems&descAlignY=62&descSize=16&animation=fadeIn"/>
+<!-- Header Banner: simple URL, no special chars in desc -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0A2E&height=200&section=header&text=Asad%20Ur%20Rehman&fontSize=54&fontColor=ffffff&fontAlignY=42&animation=fadeIn"/>
 
 <!-- Contact Badges -->
 <p align="center">
@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ItsMrAsad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ItsMrAsad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Views"/>
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Architecting+the+Future+of+Autonomous+AI;Building+Intelligent+Multi-Agent+Systems;LLMs+%7C+Agents+%7C+Full-Stack+Production+Apps;From+Peshawar+%E2%80%94+Building+for+the+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+%26+Agentic+Engineer+%F0%9F%A4%96;Architect+of+Autonomous+Systems;LLMs+%7C+Agents+%7C+Full-Stack+%7C+AIOps;Build.+Automate.+Dominate." alt="Typing SVG"/>
 
 </div>
 
@@ -64,7 +64,8 @@ const AsadUrRehman = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic SDK](https://img.shields.io/badge/Anthropic%20SDK-6B21A8?style=for-the-badge&logo=anthropic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Frontend
@@ -78,6 +79,9 @@ const AsadUrRehman = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20Pipelines-FF6C37?style=for-the-badge&logo=circleci&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -93,11 +97,11 @@ const AsadUrRehman = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ItsMrAsad&theme=tokyonight&border_radius=12&background=0d1117&border=7c3aed&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMrAsad&theme=tokyonight&border_radius=12&background=0d1117&border=7c3aed&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMrAsad&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&border_color=7c3aed&radius=12" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMrAsad&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&border_color=7c3aed" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
