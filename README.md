@@ -1,37 +1,35 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d1117,60:1a1a2e,100:16213e&height=240&section=header&text=Asad%20Ur%20Rehman&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%A4%96%20AI%20%26%20AGENTIC%20ENGINEER%20%E2%80%A2%20ARCHITECT%20OF%20AUTONOMY&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<!-- Animated Banner - Fixed URL with proper encoding -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Asad%20Ur%20Rehman&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%A4%96%20AI%20%26%20Agentic%20Engineer%20%7C%20Architect%20of%20Autonomous%20Systems&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- Contact Buttons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/asad-ur-rehman-54233133b">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:qureshidev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
   <a href="https://github.com/ItsMrAsad">
-    <img src="https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=ItsMrAsad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
----
+<br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=700&lines=Architecting+the+Future+of+Autonomous+AI;Building+Intelligent+Multi-Agent+Systems;LLMs+%7C+Agents+%7C+Full-Stack+Production+Apps;From+Peshawar+%E2%80%94+Building+for+the+World" alt="Typing SVG" />
-</a>
+<!-- Typing SVG Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Architecting+the+Future+of+Autonomous+AI+%F0%9F%A4%96;Building+Intelligent+Multi-Agent+Systems+%F0%9F%94%97;LLMs+%7C+Agents+%7C+Full-Stack+Production+Apps+%F0%9F%9A%80;From+Peshawar+%E2%80%94+Building+for+the+World+%F0%9F%8C%8D" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## Identity Matrix
+## 🧠 Identity Matrix
 
 ```typescript
 const AsadUrRehman = {
@@ -47,7 +45,7 @@ const AsadUrRehman = {
 
 ---
 
-## What I Engineer
+## ⚡ What I Engineer
 
 <div align="center">
 
@@ -95,9 +93,13 @@ const AsadUrRehman = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMrAsad&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&text_color=ffffff"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsMrAsad&theme=tokyonight&border_radius=12&background=0d1117&border=7c3aed&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=ItsMrAsad&theme=tokyonight&border_radius=12&background=0d1117&border=7c3aed&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed" alt="GitHub Streak"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMrAsad&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&radius=12" alt="Contribution Graph" width="95%"/>
@@ -117,25 +119,25 @@ const AsadUrRehman = {
 
 <div align="center">
 
-> *"The best way to predict the future is to build it autonomously."*
+> *"The best way to predict the future is to build it — autonomously."*
 
 **Open to collaborating on:**
 🤖 AI Agent Systems | 🔗 LLM Integrations | 🌐 Full-Stack Projects | ⚙️ AIOps Pipelines
 
-<p>
-  <a href="https://www.linkedin.com/in/asad-ur-rehman-54233133b">
-    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:qureshidev@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/asad-ur-rehman-54233133b">
+  <img src="https://img.shields.io/badge/Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:qureshidev@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20a%20Mail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,60:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 </div>
