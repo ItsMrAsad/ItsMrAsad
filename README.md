@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&heihght=200&section=header&text=Asad%20Ur%20Rehman&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=60&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asad%20Ur%20Rehman&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=60&descAlign=50"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/ItsMrAsad">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Asad+%F0%9F%91%8B;AI+%26+Agentic+Systems+Engineer;LangChain+%7C+OpenAI+%7C+Claude+Code;Full+Stack+%7C+React+%7C+Next.js;Building+the+Future+with+AI+%F0%9F%9A%80;Building+Digital+FTEs" alt="Typing SVG" />
-</a>a>
+</a>
 
 <br/>
 
